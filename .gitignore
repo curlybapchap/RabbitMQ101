@@ -12,6 +12,7 @@
 
 #Pauls
 *.dll
+*.exe
 
 # Build results
 [Dd]ebug/
